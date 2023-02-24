@@ -1,0 +1,3 @@
+export const PhoneData = [
+    {id:1, model:"Apple Iphone", desc:"Iphone 14 Pro", price:120000, image:"iphone", qty:1},  {id:2, model:"Redmi", desc:"Mi 12 Pro", price:60000, image:"redmi", qty:1},  {id:3, model:"Nothing", desc:"Nothing Phone 1", price:36999, image:"nothing", qty:1},  {id:4, model:"Google Pixel", desc:"Google Pixel 6a", price:30000, image:"pixel", qty:1},  {id:5, model:"Realme", desc:"Realme Gt Pro 2", price:60000, image:"realme", qty:1}
+]
